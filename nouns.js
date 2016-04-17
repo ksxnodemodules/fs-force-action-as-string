@@ -1,5 +1,0 @@
-
-{
-  "file": "file",
-  "dir": "directory"
-}
