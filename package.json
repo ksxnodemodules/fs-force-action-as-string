@@ -4,5 +4,8 @@
 	"version": "0.0.0",
 	"authour": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
 	"license": "MIT",
-	"main": "index.js"
+	"main": "index.js",
+	"dependencies": {
+		"fs-force": "*"
+	}
 }
